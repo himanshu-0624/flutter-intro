@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.lightBlue,
                 ),
                 title: Text(
-                  "+91 78 70 495 141",
+                  "+91 7X X0 XXX XXX",
                   style: TextStyle(
                       color: Colors.lightBlueAccent,
                       fontWeight: FontWeight.bold,
